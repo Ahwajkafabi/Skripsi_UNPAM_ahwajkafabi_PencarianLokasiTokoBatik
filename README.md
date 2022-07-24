@@ -1,8 +1,17 @@
 # Skripsi_UNPAM_ahwajkafabi_PencarianLokasiTokoBatik
 
-FLOECHART APLIKASI
+FLOWCHART APLIKASI
 
 ![Flowchart Aplikasi Toko Batik](https://user-images.githubusercontent.com/69799720/180637280-2d93d8e7-1bd5-4704-8c7e-463709e366a7.png)
+
+API KEY GOOGLE MAP
+
+![apikey](https://user-images.githubusercontent.com/69799720/180637404-c9da40dd-5b99-4199-88ef-85c82594667f.PNG)
+
+DATABASE PhpMyAdmin 000Webhost
+
+![db_tabel](https://user-images.githubusercontent.com/69799720/180637482-f9fad96d-3067-4717-a5b9-2490a5ba70ca.PNG)
+![tabel](https://user-images.githubusercontent.com/69799720/180637531-9c049473-2062-4e4e-bf03-80f4222ffaeb.PNG)
 
 
 UI APLIKASI 
