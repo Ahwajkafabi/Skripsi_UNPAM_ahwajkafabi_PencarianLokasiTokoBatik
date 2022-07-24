@@ -1,5 +1,10 @@
 # Skripsi_UNPAM_ahwajkafabi_PencarianLokasiTokoBatik
 
+FLOECHART APLIKASI
+
+![Flowchart Aplikasi Toko Batik](https://user-images.githubusercontent.com/69799720/180637280-2d93d8e7-1bd5-4704-8c7e-463709e366a7.png)
+
+
 UI APLIKASI 
 
 ![Splashscreen drawio](https://user-images.githubusercontent.com/69799720/180636622-c0c5468b-23fb-41cc-82ba-8a37379e1a75.png)
@@ -35,3 +40,21 @@ HASIL Pengujian Android Versi 9
 ![Screenshot_20220517-215217_Toko Batik Pekalongan](https://user-images.githubusercontent.com/69799720/180637050-0a5ca332-b2c7-4bc8-8739-c38af6ada383.jpg)
 ![Screenshot_20220517-215357_Maps](https://user-images.githubusercontent.com/69799720/180637074-784520ad-bc5c-4b6e-9382-9c8010396ec6.jpg)
 ![Screenshot_20220517-215516_Toko Batik Pekalongan](https://user-images.githubusercontent.com/69799720/180637083-0bdfc275-bed3-42f0-ba89-c867e89a4a9f.jpg)
+
+HASIL Pengujian Android Versi 11
+
+![Screenshot_20220517-215915_Toko Batik Pekalongan](https://user-images.githubusercontent.com/69799720/180637157-f540c9ee-53bd-4d43-8c65-4521beadb564.jpg)
+![Screenshot_20220517-215925_Toko Batik Pekalongan](https://user-images.githubusercontent.com/69799720/180637163-791ba7e2-d3b5-421f-ac7c-7f9b1fb5ccfb.jpg)
+![Screenshot_20220517-220346_Toko Batik Pekalongan](https://user-images.githubusercontent.com/69799720/180637183-e033b47d-a924-422b-823c-6816998a202a.jpg)
+![Screenshot_20220517-220214_Toko Batik Pekalongan](https://user-images.githubusercontent.com/69799720/180637191-5483f723-2b75-42a0-8b50-74015a002da3.jpg)
+![Screenshot_20220517-220228_Toko Batik Pekalongan](https://user-images.githubusercontent.com/69799720/180637200-c8854aed-f886-45f5-ab9a-4d97f0416017.jpg)
+![Screenshot_20220517-220243_Toko Batik Pekalongan](https://user-images.githubusercontent.com/69799720/180637213-b8fb082a-85af-44ca-87f6-341a0a844461.jpg)
+![Screenshot_20220517-220321_Toko Batik Pekalongan](https://user-images.githubusercontent.com/69799720/180637222-ea9df7d4-4261-4855-be97-f080f694d295.jpg)
+![Screenshot_20220517-220158_Toko Batik Pekalongan](https://user-images.githubusercontent.com/69799720/180637229-23648dbd-5171-43d4-927c-03bc94a26f0a.jpg)
+
+
+
+
+
+
+
