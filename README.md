@@ -1,20 +1,23 @@
 # Skripsi_UNPAM_ahwajkafabi_PencarianLokasiTokoBatik
 
-FLOWCHART APLIKASI
+# SURAT IZIN PENELITIAN
+
+![Ahwaj Kafabi_Surat Izin Bapeda_page-0001](https://user-images.githubusercontent.com/69799720/180637830-bc44cdd8-d3fb-47a4-a28e-379b8cc490f2.jpg)
+
+# FLOWCHART APLIKASI
 
 ![Flowchart Aplikasi Toko Batik](https://user-images.githubusercontent.com/69799720/180637280-2d93d8e7-1bd5-4704-8c7e-463709e366a7.png)
 
-API KEY GOOGLE MAP
+# API KEY GOOGLE MAP
 
 ![apikey](https://user-images.githubusercontent.com/69799720/180637404-c9da40dd-5b99-4199-88ef-85c82594667f.PNG)
 
-DATABASE PhpMyAdmin 000Webhost
+# DATABASE PhpMyAdmin 000Webhost
 
 ![db_tabel](https://user-images.githubusercontent.com/69799720/180637482-f9fad96d-3067-4717-a5b9-2490a5ba70ca.PNG)
 ![tabel](https://user-images.githubusercontent.com/69799720/180637531-9c049473-2062-4e4e-bf03-80f4222ffaeb.PNG)
 
-
-UI APLIKASI 
+# UI APLIKASI 
 
 ![Splashscreen drawio](https://user-images.githubusercontent.com/69799720/180636622-c0c5468b-23fb-41cc-82ba-8a37379e1a75.png)
 ![UI MENU DASBOARD drawio](https://user-images.githubusercontent.com/69799720/180636628-13401742-9c1a-4465-8d43-4e0e958bc34f.png)
@@ -25,9 +28,9 @@ UI APLIKASI
 ![halaman detail toko batik](https://user-images.githubusercontent.com/69799720/180636719-afc29e0f-bbbe-4210-95ff-f9101ba5c008.png)
 ![Halaman Tentang Aplikasi](https://user-images.githubusercontent.com/69799720/180636725-ec49f189-9740-4e14-b10b-3a4cf2c7447b.png)
 
-HASIL PENGUJIAN VERSI ANDROID:
+# HASIL PENGUJIAN VERSI ANDROID:
 
-HASIL Pengujian Android Versi 7.1.2
+# HASIL Pengujian Android Versi 7.1.2
 
 ![1_Splashscreen_layar utama aplikasi](https://user-images.githubusercontent.com/69799720/180636366-33f5bfc2-8173-4761-9cbc-ae3e40861c51.PNG)
 ![2_Menu Utama Aplikasi](https://user-images.githubusercontent.com/69799720/180636429-49e49b21-1e43-4c7b-96ed-b4d79ed1f05d.PNG)
@@ -38,7 +41,7 @@ HASIL Pengujian Android Versi 7.1.2
 ![5_Deskripsi Menu Lokasi Toko Batik](https://user-images.githubusercontent.com/69799720/180636576-d76f7c8b-4e1b-4d20-b057-067ca321d32c.PNG)
 ![6_Menu Tentang Aplikasi](https://user-images.githubusercontent.com/69799720/180636610-a1c651ae-4ec3-44d4-b176-21aa86c41df1.PNG)
 
-HASIL Pengujian Android Versi 9
+# HASIL Pengujian Android Versi 9
 
 ![Screenshot_20220517-214847_Toko Batik Pekalongan](https://user-images.githubusercontent.com/69799720/180637008-c4af1cef-d632-4c7a-a577-46374fdf4193.jpg)
 ![Screenshot_20220517-214857_Toko Batik Pekalongan](https://user-images.githubusercontent.com/69799720/180637015-5de6abb8-3bc3-4883-a044-8b8ba148273b.jpg)
@@ -50,7 +53,7 @@ HASIL Pengujian Android Versi 9
 ![Screenshot_20220517-215357_Maps](https://user-images.githubusercontent.com/69799720/180637074-784520ad-bc5c-4b6e-9382-9c8010396ec6.jpg)
 ![Screenshot_20220517-215516_Toko Batik Pekalongan](https://user-images.githubusercontent.com/69799720/180637083-0bdfc275-bed3-42f0-ba89-c867e89a4a9f.jpg)
 
-HASIL Pengujian Android Versi 11
+# HASIL Pengujian Android Versi 11
 
 ![Screenshot_20220517-215915_Toko Batik Pekalongan](https://user-images.githubusercontent.com/69799720/180637157-f540c9ee-53bd-4d43-8c65-4521beadb564.jpg)
 ![Screenshot_20220517-215925_Toko Batik Pekalongan](https://user-images.githubusercontent.com/69799720/180637163-791ba7e2-d3b5-421f-ac7c-7f9b1fb5ccfb.jpg)
@@ -60,10 +63,3 @@ HASIL Pengujian Android Versi 11
 ![Screenshot_20220517-220243_Toko Batik Pekalongan](https://user-images.githubusercontent.com/69799720/180637213-b8fb082a-85af-44ca-87f6-341a0a844461.jpg)
 ![Screenshot_20220517-220321_Toko Batik Pekalongan](https://user-images.githubusercontent.com/69799720/180637222-ea9df7d4-4261-4855-be97-f080f694d295.jpg)
 ![Screenshot_20220517-220158_Toko Batik Pekalongan](https://user-images.githubusercontent.com/69799720/180637229-23648dbd-5171-43d4-927c-03bc94a26f0a.jpg)
-
-
-
-
-
-
-
