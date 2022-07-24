@@ -4,6 +4,19 @@
 
 ![Ahwaj Kafabi_Surat Izin Bapeda_page-0001](https://user-images.githubusercontent.com/69799720/180637830-bc44cdd8-d3fb-47a4-a28e-379b8cc490f2.jpg)
 
+# JURNAL SKRIPSI APLIKASI
+
+![Image (59)](https://user-images.githubusercontent.com/69799720/180641135-b258599a-47b0-4cbf-a795-f63d13b9c2cc.jpg)
+![Image (60)](https://user-images.githubusercontent.com/69799720/180641157-ba523821-6607-419d-a9f3-5b35f4724960.jpg)
+![Image (61)](https://user-images.githubusercontent.com/69799720/180641186-b4d1e048-cd1c-4d5f-afe1-26c4ad7e8032.jpg)
+![Image (62)](https://user-images.githubusercontent.com/69799720/180641208-eb36b21f-12e4-4e98-bf44-4f86ccf3a9a5.jpg)
+![Image (63)](https://user-images.githubusercontent.com/69799720/180641215-8223729a-1755-4420-81ef-56fb9fdf12af.jpg)
+![Image (64)](https://user-images.githubusercontent.com/69799720/180641228-7f7dba09-c70e-4769-8145-f40b82c5c94e.jpg)
+![Image (65)](https://user-images.githubusercontent.com/69799720/180641236-05448303-4c0e-4cc8-9d1c-711140bbcdd2.jpg)
+![Image (66)](https://user-images.githubusercontent.com/69799720/180641255-de08d1a5-a899-4fcd-a738-6b2d30070f51.jpg)
+![Image (67)](https://user-images.githubusercontent.com/69799720/180641264-5f71ac3e-90da-46c2-a546-1b258751087f.jpg)
+
+
 # FLOWCHART APLIKASI
 
 ![Flowchart Aplikasi Toko Batik](https://user-images.githubusercontent.com/69799720/180637280-2d93d8e7-1bd5-4704-8c7e-463709e366a7.png)
