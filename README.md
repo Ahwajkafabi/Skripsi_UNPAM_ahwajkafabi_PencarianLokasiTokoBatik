@@ -15,6 +15,10 @@
 # DATABASE PhpMyAdmin 000Webhost
 
 ![db_tabel](https://user-images.githubusercontent.com/69799720/180637482-f9fad96d-3067-4717-a5b9-2490a5ba70ca.PNG)
+![db_tabel_data_location](https://user-images.githubusercontent.com/69799720/180638559-6b222d0d-5338-4bd7-8465-40730bdf494e.PNG)
+![db_tabel_articles](https://user-images.githubusercontent.com/69799720/180638587-8b5f7295-07e9-4c74-8c64-5c6f3361ada3.PNG)
+![db_tabel_location](https://user-images.githubusercontent.com/69799720/180638596-596c0244-6583-4d47-b2e9-97fb6c9e01e1.PNG)
+
 ![tabel](https://user-images.githubusercontent.com/69799720/180637531-9c049473-2062-4e4e-bf03-80f4222ffaeb.PNG)
 
 # UI APLIKASI 
