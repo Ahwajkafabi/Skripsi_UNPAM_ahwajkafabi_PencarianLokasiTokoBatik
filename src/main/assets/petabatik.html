@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html> 
+<head> 
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" /> 
+  <title>Ahwaj - Pekalongan Batik Shop</title> 
+  <script src="http://maps.google.com/maps/api/js?sensor=false" 
+          type="text/javascript"></script>
+</head> 
+<body>
+<marquee>
+  <h4>
+    <center><b>Ahwaj - Pekalongan Batik Shop</b></center>
+  </h4>
+</marquee>
+
+  <div id="map" style="width: 800px; height: 500px;"></div>
+
+  <script type="text/javascript">
+    var locations = [
+	  
+      ['Kampoeng Batik Kauman - Pekalongan', -6.88977, 109.67323, 5],
+	  ['Pekalongan Square', -6.90145, 109.68226, 13],
+	  ['Matahari Department Store Pekalongan Plaza', -6.89045, 109.67787, 12],
+	  ['PUSAT GROSIR BATIK PEKALONGAN', -6.90082, 109.66721, 11],
+	  ['Pasar Grosir Batik Setono Kota Pekalongan', -6.90271, 109.6902, 10],
+	  ['Makam Al Habib Ahmad bin Abdullah bin Thalib Alatas', -6.89735, 109.67394, 9],
+	  ['tenun ATBM medono', -6.90259, 109.66975, 8],
+	  ['Kampung Batik Gemah Sumilir', -6.89479, 109.61673, 7],
+      ['KAMPUNG BATIK PESINDON PEKALONGAN', -6.88836, 109.671, 6],
+      ['Batik monument Jlamprang', -6.88207, 109.67967, 4],
+      ['Internasional Batik Center', -6.89159, 109.62511, 3],
+      ['KAMPUNG BATIK WIRADESA', -6.89133, 109.61737, 2],
+	  ['Pekalongans Batik Museum', -6.87861, 109.67547, 1]
+    ];
+
+    var map = new google.maps.Map(document.getElementById('map'), {
+      zoom: 13,
+      center: new google.maps.LatLng(-6.87887, 109.67427),
+      mapTypeId: google.maps.MapTypeId.ROADMAP
+    });
+
+    var infowindow = new google.maps.InfoWindow();
+
+    var marker, i;
+
+    for (i = 0; i < locations.length; i++) {  
+      marker = new google.maps.Marker({
+        position: new google.maps.LatLng(locations[i][1], locations[i][2]),
+        map: map
+      });
+
+      google.maps.event.addListener(marker, 'click', (function(marker, i) {
+        return function() {
+          infowindow.setContent(locations[i][0]);
+          infowindow.open(map, marker);
+        }
+      })(marker, i));
+    }
+  </script>
+</body>
+</html>

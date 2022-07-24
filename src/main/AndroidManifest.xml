@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ahwajkafabi.tokobatikpekalongan">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/modelbatik"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/modelbatik"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TokoBatikPekalongan">
+        <activity android:name=".MenuActivity"></activity>
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyBLFRGtYUF1ncvgah2LtKEBiSBNfnoQKqs" />
+
+        <activity
+            android:name=".PetabatikActivity"
+            android:label="@string/title_activity_petabatik" />
+        <activity android:name=".PetaActivity" />
+        <activity android:name=".DasboardActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".AboutActivity" />
+        <activity android:name=".DetailActivity3" />
+        <activity android:name=".SplashActivity3" />
+        <activity android:name=".MainActivity3" />
+        <activity android:name=".DetailActivity" />
+        <activity android:name=".SplashActivity" />
+        <activity android:name=".MainActivity2" />
+    </application>
+
+</manifest>

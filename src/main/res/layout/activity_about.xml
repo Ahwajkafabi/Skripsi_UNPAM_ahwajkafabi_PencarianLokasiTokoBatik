@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/brand"
+    tools:context=".AboutActivity">
+
+    <TextView
+        android:id="@+id/tvBantuan"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Tentang"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="@color/yello"
+        android:gravity="center_horizontal" />
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="(Mohon aktifkan GPS untuk menggunakan aplikasi ini)"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:textColor="@color/yello"
+        android:layout_below="@+id/logo"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="PENCARIAN TOKO BATIK PEKALONGAN"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/yello"
+        android:layout_below="@+id/logo"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView7"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:textColor="@color/yello"
+        android:text="* Aplikasi ini bertujuan untuk memberikan informasi kepada pengguna mengenai lokasi Pencarian Toko Batik Pekalongan dari sekitar lokasi pengguna saat menggunakan aplikasi ini serta rute dan jarak menuju tempat Toko Batik di Kota Pekalongan"
+        android:layout_alignParentLeft="true" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView8"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:textColor="@color/yello"
+        android:text="* Aplikasi ini menggunakan pencarian jarak dan rute dari lokasi pengguna menuju Toko Batik di Kota Pekalongan"
+        android:layout_alignParentLeft="true" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView9"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:textColor="@color/yello"
+        android:text=" * Aplikasi ini saat pertama kali dibangun untuk mendukung Pencarian Lokasi Toko Batik di Kota Pekalongan (31 Januari 2022)"
+        android:layout_alignParentLeft="true" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView10"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:text="* Aplikasi ini dirancang dan dibangun oleh Ahwaj Kafabi (ajin@programmer.net)"
+        android:textColor="@color/yello"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

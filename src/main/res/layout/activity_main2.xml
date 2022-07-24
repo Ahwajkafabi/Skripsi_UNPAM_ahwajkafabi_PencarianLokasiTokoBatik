@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/museumbatikpkl"
+    tools:context=".MainActivity2">
+
+    <LinearLayout
+        android:id="@+id/layoutSearchBox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#303F9F"
+        android:padding="10dp">
+        <EditText
+            android:id="@+id/etSearchBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/search_box_bg"
+            android:drawableLeft="@drawable/ic_search"
+            android:drawablePadding="5dp"
+            android:hint="Search.."
+            android:padding="10dp"
+            android:textSize="14sp"/>
+    </LinearLayout>
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/layoutSearchBox"
+        android:layout_centerHorizontal="true"
+        android:elevation="2dp" />
+    <androidx.core.widget.NestedScrollView
+        android:id="@+id/nsArticleContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/layoutSearchBox">
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingVertical="10dp">
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:paddingHorizontal="15dp">
+                    <ImageView
+                        android:layout_width="100dp"
+                        android:layout_height="50dp"
+                        android:src="@drawable/logobatik"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="10dp"
+                        android:text="MOTIF BATIK PEKALONGAN"
+                        android:textColor="@color/cardview_dark_background"
+                        android:textSize="16sp"/>
+                </LinearLayout>
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginVertical="10dp"
+                    android:background="@color/lineColor"/>
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/rvListEncyclopedia"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"></androidx.recyclerview.widget.RecyclerView>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+    </androidx.core.widget.NestedScrollView>
+
+</RelativeLayout>
